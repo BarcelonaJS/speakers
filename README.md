@@ -4,6 +4,7 @@
 - Talks are 30 minutes including Q&A
 - You can speak in Spanish or English (international audience)
 - We'll record the talks and publish them on our [Vimeo channel](https://vimeo.com/barcelonajs)
+- [Slack](https://barcelonajs.slack.com)
 
 ## How to submit a talk proposal
 
@@ -11,4 +12,8 @@
 2. fill out the title, your Twitter handle, the level and language of the talk and the description
 3. That's it. :)
 
-    **If you need any help with this process** because you are new to GitHub or git, give us a poke on Twitter. We are happy to help newcomers in any way we can!
+## Need Help?
+
+**If you need any help with this process** because you are new to GitHub or git, give us a poke on Twitter. We are happy to help newcomers in any way we can!
+
+You can find us also on our [BarcelonaJS Slack](https://barcelonajs.slack.com), you can [request an invite here]( http://barcelonajs.herokuapp.com)
