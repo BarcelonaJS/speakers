@@ -14,6 +14,6 @@
 
 ## Need Help?
 
-**If you need any help with this process** because you are new to GitHub or git, give us a poke on Twitter. We are happy to help newcomers in any way we can!
+**If you need any help with this process** because you are new to GitHub or git, give us a poke on [Twitter](https://twitter.com/bcnjs). We are happy to help newcomers in any way we can!
 
 You can find us also on our [BarcelonaJS Slack](https://barcelonajs.slack.com), you can [request an invite here]( http://barcelonajs.herokuapp.com)
