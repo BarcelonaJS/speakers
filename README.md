@@ -4,6 +4,8 @@
 ## Format
 
 - Talks are 30 minutes including Q&A
+- Screen ratio is 16:9 with high resolution
+- Min. 24pt font size recommended
 - You can speak in Spanish or English (international audience)
 - We'll record the talks and publish them on our [Vimeo channel](https://vimeo.com/barcelonajs)
 - [Slack](https://barcelonajs.slack.com)
@@ -13,6 +15,26 @@
 1. [Create a new talk](https://github.com/BarcelonaJS/speakers/issues/new?title=Title%20Your%20Awesome%20Talk&body=---%0Alevel:%20beginner%20%7C%20advanced%20%7C%20expert%0Alanguage:%20en%20%7C%20es%0Atwitter:%20YourTwitterHandle%0Atags:%0A%20%20-%20hello%0A%20%20-%20node%0A---%0A%0AYour%20awesome%20talk%20description)
 2. fill out the title, your Twitter handle, the level and language of the talk and the description
 3. That's it. :)
+
+## After Your Talk
+
+We're still working on automating this process, but for now please have a look into the [BarcelonaJS](https://github.com/BarcelonaJS/BarcelonaJS) main repository and find your talk in the 'talks' folder. Please edit the file on GitHub and add the url to your presentation and optional source code like this:
+
+```
+"workPerformed": {
+   "type": "CreativeWork",
+   "learningResourceType": "presentation",
+   "url": "https://github.com/mhevery/angular-demo-slides"
+ },
+ "workFeatured": {
+   "type": "CreativeWork",
+   "learningResourceType": "source code",
+   "id": "https://github.com/mhevery/angular-demo-slides"
+ }
+ ```
+
+This is schema.org semantic information. Here's a [full example](https://github.com/BarcelonaJS/BarcelonaJS/edit/master/talks/20130506-angularjs.md).
+
 
 ## Need Help?
 
