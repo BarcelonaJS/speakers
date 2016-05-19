@@ -1,0 +1,8 @@
+nguage: en | es
+twitter: YourTwitterHandle
+tags:
+  - hello
+  - node
+---
+
+Your awesome talk description
