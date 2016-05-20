@@ -1,8 +1,10 @@
-nguage: en | es
+---
+language: en | es
 twitter: YourTwitterHandle
 tags:
-  - hello
+  - optional
   - node
+
 ---
 
-Your awesome talk description
+Your talk description
