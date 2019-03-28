@@ -9,6 +9,7 @@ assignees: ''
 
 ---
 name: YourName
+email: YourEmailOrContactDetails
 twitter: YourTwitterHandle (optional)
 github: YourGithubUsername (optional)
 title: The title of your talk
